@@ -78,6 +78,7 @@ namespace SharpFruit
             uris.Add("/vsphere-client/");
             uris.Add("/vsphere-client/?csp");
             uris.Add("/exchange/servlet/ADSHACluster");
+            uris.Add("/securityRealm/user/admin/");
 
             // Declare protocol variable
             string protocol = "";
